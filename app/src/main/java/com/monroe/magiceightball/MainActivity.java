@@ -31,6 +31,7 @@ public class MainActivity extends ActionBarActivity
     {
         Random randomGenerator = new Random();
         int randomInt = randomGenerator.nextInt(20);
+        //This works now
 
         switch (randomInt)
         {
